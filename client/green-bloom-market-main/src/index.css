@@ -1,0 +1,87 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;600;700&display=swap');
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 155 20% 15%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 155 20% 15%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 155 20% 15%;
+
+    --primary: 155 60% 35%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 155 20% 95%;
+    --secondary-foreground: 155 20% 15%;
+
+    --muted: 155 15% 96%;
+    --muted-foreground: 155 10% 45%;
+
+    --accent: 120 40% 90%;
+    --accent-foreground: 155 20% 15%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 155 20% 90%;
+    --input: 155 20% 90%;
+    --ring: 155 60% 35%;
+
+    --radius: 0.75rem;
+  }
+
+  body {
+    @apply font-inter bg-background text-foreground antialiased;
+  }
+
+  .font-playfair {
+    font-family: 'Playfair Display', serif;
+  }
+
+  .font-inter {
+    font-family: 'Inter', sans-serif;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-primary text-primary-foreground hover:bg-primary/90 px-6 py-3 rounded-lg font-medium transition-colors duration-200;
+  }
+
+  .btn-secondary {
+    @apply bg-secondary text-secondary-foreground hover:bg-secondary/80 px-6 py-3 rounded-lg font-medium transition-colors duration-200;
+  }
+
+  .card-hover {
+    @apply transition-all duration-300 hover:shadow-xl hover:-translate-y-1;
+  }
+
+  .gradient-green {
+    background: linear-gradient(135deg, #059669 0%, #10b981 100%);
+  }
+
+  .text-gradient {
+    background: linear-gradient(135deg, #059669 0%, #10b981 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+}
+
+/* Removed unnecessary global layout rules from #root */
+/* Use container classes directly in your JSX */
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}

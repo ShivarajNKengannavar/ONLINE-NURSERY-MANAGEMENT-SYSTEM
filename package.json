@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@shadcn/ui": "^0.0.4",
+    "axios": "^1.10.0",
+    "clsx": "^2.1.1",
+    "dotenv": "^16.5.0",
+    "lucide-react": "^0.515.0"
+  }
+}
