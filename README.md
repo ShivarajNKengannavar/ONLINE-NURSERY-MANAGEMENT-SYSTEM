@@ -65,7 +65,7 @@ Test your changes
 
 
 
-                                                         Thanks for stopping by! 🌿 Let’s grow something great together.
+                                              Thanks for stopping by! 🌿 Let’s grow something great together.
 
 
 
