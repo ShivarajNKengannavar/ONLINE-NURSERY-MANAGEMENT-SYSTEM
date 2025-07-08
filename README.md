@@ -1,16 +1,43 @@
-### Instructions
+# 🌿 Online Nursery Management System
 
-1 Install necessary modules and packages
-2 Later run "npm install"
-3 After that run "npm run dev"
-4 Decide how you want to login in i.e either as customer or admin
-5 For customer first sign up with your email id and password 
-6 For admin use "admin098@gmail.com" and "Admin@123" as password
+A full-stack web application that allows users to browse, buy, and review plants and gardening tools. Admins can manage products, track orders, and oversee the system.
 
-### Adding plants
+## 🧰 Features
 
-1 To add plants -> Go to the admin dashboard, there you will find the add products button, there add products and add an image url also for the image.
+- 👤 User authentication (Admin & Customer)
+- 🛒 Shopping cart, wishlist, and product reviews
+- 📦 Real-time stock tracking
+- 🧑‍💻 Admin dashboard to add/edit/delete products
+- 💬 Plant care chatbot
+- 🌟 Product ratings & user feedback
 
-2 Can keep a track on order request from the user 
+## 🔐 Admin Login
+
+- **Email:** admin098@gmail.com  
+- **Password:** Admin@123
+
+## 🛠️ Technologies Used
+
+- **Frontend:** React, Tailwind CSS
+- **Backend:** Node.js, Express
+- **Database:** PostgreSQL
+- **Auth:** JWT + bcrypt
+- **Deployment:** (To be added)
+
+## 🚀 Getting Started
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/ShivarajNKengannavar/ONLINE-NURSERY-MANAGEMENT-SYSTEM.git
+   cd ONLINE-NURSERY-MANAGEMENT-SYSTEM
+
+2. Install dependencies - npm install
+
+3. Create a .env file from .env.example and configure your environment.
+
+4. Start development servers - npm run dev
+
+
+
 
 
