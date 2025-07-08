@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\User\Desktop\greenbloom-fullstack\assests" alt="Green Bloom Banner" />
+  <img src="assets/GreenBloom_Banner.jpg" alt="Green Bloom Banner" />
 </p>
 
 # 🌿 Online Nursery Management System
