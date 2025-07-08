@@ -50,18 +50,15 @@ Email: shivarajnkengannavar@gmail.com
 
 
 
-🙌 Contributing
-Interested in contributing?
+## 🙌 **Contributing**
 
-Fork the repo, make changes, and submit a pull request.
+We welcome contributions! Whether it’s reporting bugs, discussing improvements, or submitting pull requests — every bit helps!
 
-Make sure to:
-
-Follow our coding style
-
-Write clear commit messages
-
-Test your changes
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/YourFeature`)
+3. Commit your changes (`git commit -m 'Add your message'`)
+4. Push to the branch (`git push origin feature/YourFeature`)
+5. Open a Pull Request
 
 
 
