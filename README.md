@@ -50,7 +50,7 @@ A full-stack web application that allows users to browse, buy, and review plants
 4. Start development servers - npm run dev
 
 👨‍💻 Developer
-Shivaraj N. Kengannavar
+Shivaraj N Kengannavar
 Email: shivarajnkengannavar@gmail.com
 
 
