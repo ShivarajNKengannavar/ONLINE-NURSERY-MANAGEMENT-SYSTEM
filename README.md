@@ -16,7 +16,7 @@ A full-stack web application that allows users to browse, buy, and review plants
 - **Email:** admin098@gmail.com  
 - **Password:** Admin@123
 
-## Customer LOgin
+## Customer Login
 
  Sign up with your email & password
 
