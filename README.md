@@ -48,6 +48,22 @@ A full-stack web application that allows users to browse, buy, and review plants
 Shivaraj N. Kengannavar
 Email: shivarajnkengannavar@gmail.com
 
+🙌 Contributing
+Interested in contributing? Fork the repo, make changes, and submit a pull request.
+
+Make sure to:
+
+Follow our coding style
+
+Write clear commit messages
+
+Test your changes
+
+
+
+Thanks for stopping by! 🌿 Let’s grow something great together.
+
+
 
 
 
