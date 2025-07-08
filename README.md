@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="assets/GreenBloom_Banner.jpg" alt="Green Bloom Banner" />
+  <img src="assets/GreenBloom_Banner.jpg" alt="Green Bloom Banner" width="600" />
 </p>
+
 
 # 🌿 Online Nursery Management System
 
