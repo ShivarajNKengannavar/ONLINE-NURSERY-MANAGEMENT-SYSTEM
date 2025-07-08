@@ -62,7 +62,7 @@ We welcome contributions! Whether it’s reporting bugs, discussing improvements
 
 
 
-                                      Thanks for stopping by! 🌿 Let’s grow something great together.
+                              Thanks for stopping by! 🌿 Let’s grow something great together.
 
 
 
