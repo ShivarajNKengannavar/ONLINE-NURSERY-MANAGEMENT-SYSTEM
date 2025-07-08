@@ -88,7 +88,7 @@ We welcome contributions! Whether it’s reporting bugs, discussing improvements
 ### 🛠️ Admin Side
 
 #### 📦 Add Product
-<img src="assets/Admin-side/Add-product.png" alt="Admin Add Product" width="700" />
+<img src="assets/Admin-side/Add-products.png" alt="Admin Add Product" width="700" />
 
 #### 📊 Dashboard
 <img src="assets/Admin-side/Dashboard.png" alt="Admin Dashboard" width="700" />
