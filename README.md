@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="C:\Users\User\Desktop\greenbloom-fullstack\assests" alt="Green Bloom Banner" />
+</p>
+
 # 🌿 Online Nursery Management System
 
 A full-stack web application that allows users to browse, buy, and review plants and gardening tools. Admins can manage products, track orders, and oversee the system.
