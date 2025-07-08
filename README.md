@@ -76,9 +76,6 @@ We welcome contributions! Whether it’s reporting bugs, discussing improvements
 #### 🛒 Product Listing
 <img src="assets/User-side/product-list.png" alt="User Product List" width="700" />
 
-#### 🔐 Login Page
-<img src="assets/User-side/login.png" alt="User-Login" width="700" />
-
 #### 🔐 Payment Page
 <img src="assets/User-side/payment.png" alt="User-Payment-Page" width="700" />
 
