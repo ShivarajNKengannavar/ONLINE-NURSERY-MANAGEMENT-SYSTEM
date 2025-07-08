@@ -16,6 +16,10 @@ A full-stack web application that allows users to browse, buy, and review plants
 - **Email:** admin098@gmail.com  
 - **Password:** Admin@123
 
+## Customer LOgin
+
+ Sign up with your email & password
+
 ## 🛠️ Technologies Used
 
 - **Frontend:** React, Tailwind CSS
@@ -31,7 +35,10 @@ A full-stack web application that allows users to browse, buy, and review plants
    git clone https://github.com/ShivarajNKengannavar/ONLINE-NURSERY-MANAGEMENT-SYSTEM.git
    cd ONLINE-NURSERY-MANAGEMENT-SYSTEM
 
-2. Install dependencies - npm install
+2. cd client
+   npm install
+   cd ../server
+   npm install
 
 3. Create a .env file from .env.example and configure your environment.
 
