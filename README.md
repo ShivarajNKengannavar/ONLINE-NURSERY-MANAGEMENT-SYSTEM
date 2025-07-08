@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/GreenBloom_Banner.jpg" alt="Green Bloom Banner" width="400" />
+  <img src="assets/GreenBloom_Banner.jpg" alt="Green Bloom Banner" width="200" />
 </p>
 
 
