@@ -66,6 +66,36 @@ We welcome contributions! Whether it’s reporting bugs, discussing improvements
 5. Open a Pull Request
 
 
+## 📸 Screenshots
+
+### 👤 User Side
+
+#### 🏠 Home Page
+<img src="assets/User-side/Homepage.png" alt="User Home Page" width="700" />
+
+#### 🛒 Product Listing
+<img src="assets/User-side/product-list.png" alt="User Product List" width="700" />
+
+#### 🔐 Login Page
+<img src="assets/User-side/login.png" alt="User-Login" width="700" />
+
+#### 🔐 Payment Page
+<img src="assets/User-side/payment.png" alt="User-Login" width="700" />
+
+
+---
+
+### 🛠️ Admin Side
+
+#### 📦 Add Product
+<img src="assets/Admin-side/Add-product.png" alt="Admin Add Product" width="700" />
+
+#### 📊 Dashboard
+<img src="assets/Admin-side/Dashboard.png" alt="Admin Dashboard" width="700" />
+
+
+
+
 
                               Thanks for stopping by! 🌿 Let’s grow something great together.
 
